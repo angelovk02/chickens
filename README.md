@@ -1,5 +1,6 @@
 I wanted to create something similar to a game that i liked very much when i was younger and that game was chicken invaders. The project is still in its early development stages however I hope you enjoy it.
 
+https://chickens-gamee.web.app/
 
 The project can be opened with live server.
 
